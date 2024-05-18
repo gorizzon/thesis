@@ -1,0 +1,4 @@
+- "BRCAData.rda" contains the features data. It was downloaded from https://github.com/ttriche/bayesCC/tree/master/data
+- The folder "Article Tables" contains supplementary tables 1-4 of the following article https://www.nature.com/articles/nature11412. Supplementary table 1 contains the tumor class data in Excel format. Supplementary table 1 was converted to a .csv format, which is the file "raw_outcome.csv".
+- The files "Meth.csv", "RPPA.csv", "mRNA.csv" contain the same data in "BRCAData.rda" but in .csv format.
+- The file "outcome_class.csv" contains the same tumor class data in "raw_outcome.csv" but recoded to digits to be readable by MoGCN and Ridge models.
