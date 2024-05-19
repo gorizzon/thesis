@@ -1,0 +1,3 @@
+This research project aims to evaluate the opportunities and challenges of applying GNN methods to multi- omics data from small clinical cohorts. In particular, we evaluate GNN prediction accuracy using the MoGCN framework in three different implementations to replicate different scenarios that may be encountered in research, comparing performance as the sample size, dimensionality, and type of omics data change. These three implementations include synthetically generated multi-omics data, real-world multi-omics data from The Cancer Genome Atlas (TCGA), and multi-omics data from an ongoing randomized clinical trial (XXXX).
+
+There are README files in each of the folders with instructions on how to run the code.
