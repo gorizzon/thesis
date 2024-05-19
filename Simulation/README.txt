@@ -4,7 +4,7 @@ I created three sets of omics-like data using PO2PLS, a factor model designed sp
 
 Aside from the two parameters above which define the different conditions, more parameters were held constant to generate the data. The noise of the generated data was set to 0.7 and number of total components used to generate the data was set to F/10. Half of the total number of components was set to be shared components and the remaining half was set to be orthogonal components. In PO2PLS the shared components capture shared variance across omics platforms, while the orthogonal components capture shared variance within a single platform. Additionally, Gaussian noise was added to the generated outcome variable, which was subsequently dichotomized to replicate the categorical outcomes typically found in clinical research.
 
-The simulated data and results folders are too large to be pushed to GitHub. The zip files can be downloaded from (link). The link will remain active until 02/06/2024. To access the files after this date, please email g.orizzonte@uu.nl.
+The simulated data and results folders are too large to be pushed to GitHub. The zip files can be downloaded from https://filesender.surf.nl/?s=download&token=e25a7452-1100-45cb-85d3-f78c71b3be86 . The link will remain active until 02/06/2024. To access the files after this date, please email g.orizzonte@uu.nl.
 
 The data folder has the following structure:
 
