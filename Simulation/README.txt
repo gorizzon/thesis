@@ -79,7 +79,7 @@ The results folder has the following structure (file names formatted for readabi
 
 results/
 ├── data_A/
-│   ├── result_1/
+│   ├── result_01/
 │   │   ├── Autoencoder training loss.png
 │   │   ├── Autoencoder latent data.csv
 │   │   ├── top omics 1.csv
@@ -88,7 +88,7 @@ results/
 │   │   ├── SNF fused matrix.csv
 │   │   ├── SNF cluster map.png
 │   │   ├── GCN predicted data.csv
-│   ├── result_2/
+│   ├── result_02/
 │   │   ├── Autoencoder training loss.png
 │   │   ├── Autoencoder latent data.csv
 │   │   ├── top omics 1.csv
@@ -108,7 +108,7 @@ results/
 │   │   ├── SNF cluster map.png
 │   │   ├── GCN predicted data.csv
 ├── data_B/
-│   ├── result_1/
+│   ├── result_01/
 │   │   ├── Autoencoder training loss.png
 │   │   ├── Autoencoder latent data.csv
 │   │   ├── top omics 1.csv
@@ -117,7 +117,7 @@ results/
 │   │   ├── SNF fused matrix.csv
 │   │   ├── SNF cluster map.png
 │   │   ├── GCN predicted data.csv
-│   ├── result_2/
+│   ├── result_02/
 │   │   ├── Autoencoder training loss.png
 │   │   ├── Autoencoder latent data.csv
 │   │   ├── top omics 1.csv
@@ -138,7 +138,7 @@ results/
 │   │   ├── GCN predicted data.csv
 ├── ...
 ├── data_T/
-│   ├── result_1/
+│   ├── result_01/
 │   │   ├── Autoencoder training loss.png
 │   │   ├── Autoencoder latent data.csv
 │   │   ├── top omics 1.csv
@@ -147,7 +147,7 @@ results/
 │   │   ├── SNF fused matrix.csv
 │   │   ├── SNF cluster map.png
 │   │   ├── GCN predicted data.csv
-│   ├── result_2/
+│   ├── result_02/
 │   │   ├── Autoencoder training loss.png
 │   │   ├── Autoencoder latent data.csv
 │   │   ├── top omics 1.csv
@@ -156,7 +156,6 @@ results/
 │   │   ├── SNF fused matrix.csv
 │   │   ├── SNF cluster map.png
 │   │   ├── GCN predicted data.csv
-│   ├── result_3/
 │   ├── ...
 │   ├── result_15/
 │   │   ├── Autoencoder training loss.png
